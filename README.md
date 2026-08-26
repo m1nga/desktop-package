@@ -1,4 +1,4 @@
-# desktop-package
+# Package a Finished AI Work Session for Review
 
 **Turns a finished chat into one reviewable folder on your Desktop — and runs five checks to prove every file actually landed.**
 
