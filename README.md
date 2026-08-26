@@ -71,7 +71,7 @@ Probed 7 scenarios across 6 personas · 5 fired correctly · 2 correctly stayed 
 
 > **"Clean up my desktop, it's a mess"** → Stayed quiet. One character separates 整理**到**桌面 (package to desktop — fires) from 整理桌面 (tidy my desktop — never fires); the skill only ever *adds* one folder and never reorganizes what's already there.
 
-Probe method: [scenario-probe](https://github.com/m1nga/scenario-probe)
+Probe method: [scenario-probe](https://github.com/m1nga/scenario-probe/)
 
 ## Author
 
